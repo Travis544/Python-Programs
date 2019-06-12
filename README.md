@@ -1,2 +1,3 @@
 # Python-Programs
-I dare you to run app.py
+App.py is a troll program that will open random tabs on the browser once it runs
+simple calculator--self explanatory
